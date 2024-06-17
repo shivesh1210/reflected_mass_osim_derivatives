@@ -102,7 +102,7 @@ end
 
 return
 
-robot=importrobot('frankaEmikaPanda.urdf');
+robot=importrobot('data/frankaEmikaPanda.urdf');
 config = homeConfiguration(robot);
 % for i=1:7
 %     config(i).JointPosition = q0(i);
