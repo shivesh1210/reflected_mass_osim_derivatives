@@ -84,5 +84,9 @@ Results generated from Examples 1 and 2 are stored in the results folder.
 * nIter_Traj2_Grad.txt
 * nIter_Traj2_PI.txt
 
+# Authors
 
+* [Andreas Mueller](https://www.jku.at/institut-fuer-robotik/ueber-uns/team/andreas-mueller/) (a.mueller@jku.at)
+* [Shivesh Kumar](https://www.chalmers.se/en/persons/shivesh/) (shivesh.kumar@chalmers.se)
+ 
 
